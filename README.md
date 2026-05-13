@@ -27,8 +27,13 @@ https://omppatil07.github.io/portfolio/
 ## Repository Structure
 portfolio/
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── me.jpg
+
 ├── resume.pdf
+
 └── README.md
