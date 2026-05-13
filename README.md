@@ -21,8 +21,8 @@ https://omppatil07.github.io/portfolio/
 
 ## Contact
 - Email: omprakashpatil2002@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/omppatil07/)
-- GitHub: 
+- LinkedIn: https://www.linkedin.com/in/omppatil07/
+- GitHub: https://github.com/Omppatil07
 
 ## Repository Structure
 portfolio/
